@@ -1,0 +1,11 @@
+---
+title: Prostata2
+author: Izar
+date: '2021-04-21'
+slug: prostata2
+categories:
+  - R
+tags:
+  - R Markdown
+---
+![PREC_logo.png](/post/2021-04-21-prostata2_files/logo-prec-full.png){width=50% height=200px}
